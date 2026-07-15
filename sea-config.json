@@ -1,0 +1,7 @@
+{
+  "main": "dist/typestrike-bundle.cjs",
+  "output": "dist/typestrike.blob",
+  "disableExperimentalSEAWarning": true,
+  "useSnapshot": false,
+  "useCodeCache": true
+}
