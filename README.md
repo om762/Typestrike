@@ -31,7 +31,6 @@ Grab the latest release for your platform from the [Releases](../../releases/lat
 |----------|-------------|----------|
 | **Windows** | x64 (Intel/AMD) | `typestrike-win-x64.zip` |
 | **Windows** | ARM64 | `typestrike-win-arm64.zip` |
-| **macOS** | Intel | `typestrike-macos-x64.tar.gz` |
 | **macOS** | Apple Silicon (M1–M4) | `typestrike-macos-arm64.tar.gz` |
 | **Linux** | x64 (Intel/AMD) | `typestrike-linux-x64.tar.gz` |
 | **Linux** | ARM64 | `typestrike-linux-arm64.tar.gz` |

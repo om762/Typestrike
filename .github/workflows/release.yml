@@ -25,12 +25,6 @@ jobs:
             ext: .exe
             archive: zip
             node-arch: arm64
-          - os: macos-13
-            arch: x64
-            target: typestrike-macos-x64
-            ext: ''
-            archive: tar.gz
-            node-arch: x64
           - os: macos-latest
             arch: arm64
             target: typestrike-macos-arm64
