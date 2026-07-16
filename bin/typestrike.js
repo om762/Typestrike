@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * TypeStrike — A MonkeyType-inspired CLI typing test
+ * TypeStrike — A blazing-fast CLI typing test
  * ⌨  Beautiful, offline, zero dependencies  ⌨
  */
 

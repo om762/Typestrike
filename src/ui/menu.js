@@ -143,7 +143,7 @@ export class Menu {
 
     // Tagline
     lines.push('');
-    lines.push(centerAnsi(`${C.muted}⌨  A MonkeyType-inspired typing test for your terminal  ⌨${C.reset}`, cols));
+    lines.push(centerAnsi(`${C.muted}⌨  A blazing-fast typing test for your terminal  ⌨${C.reset}`, cols));
     lines.push('');
 
     // Personal best

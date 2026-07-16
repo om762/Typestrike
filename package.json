@@ -1,7 +1,7 @@
 {
   "name": "typestrike",
   "version": "1.0.0",
-  "description": "⌨️ A MonkeyType-inspired CLI typing test — beautiful, offline, zero dependencies",
+  "description": "⌨️ A blazing-fast CLI typing test — beautiful, offline, zero dependencies",
   "type": "module",
   "main": "src/app.js",
   "bin": {
@@ -11,7 +11,8 @@
     "start": "node bin/typestrike.js",
     "check": "node --check bin/typestrike.js && node --check src/app.js",
     "build:bundle": "npx -y esbuild sea-entry.js --bundle --platform=node --format=cjs --outfile=dist/typestrike-bundle.cjs --minify",
-    "build": "build.cmd"
+    "build": "build.cmd",
+    "build:sea": "bash build.sh"
   },
   "keywords": [
     "typing",
@@ -19,7 +20,6 @@
     "cli",
     "terminal",
     "tui",
-    "monkeytype",
     "wpm",
     "speed-typing"
   ],
